@@ -1,0 +1,8 @@
+The package contains:
+
+* animation sprites in PNG for 5 different fish
+* animation JSON files
+* all body parts in PNG
+* original AI file with the graphic
+
+The animation was created with Spine 3.3.07. If your animation is not running be sure that you have the newest assets. 
